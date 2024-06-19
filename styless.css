@@ -7,11 +7,11 @@
 }
 
 :root {
-  --color-white: #fff;
-  --color-pink: #d12f7a;
-  --color-blue: #073fcc;
+  --color-white: #f0f0f0;
+  --color-pink: #c04c82;
+  --color-blue: #a3ad11;
   --color-black: #0c0c0c;
-  --color-purple: #5f01ac;
+  --color-purple: #a3ad11;
 }
 
 html {
